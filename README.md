@@ -13,7 +13,7 @@ Methodology:
 - Step 4: Print Results:  For the final step, I printed the results for the diameter, circumference, surface_area, and volume values by using four System.out.println statements.
 
 Results:
-- The code ran successfully due to my code having no bugs. The program sucessfully calculated the diameter, circumference, surface area, and volume of a sphere.
+- The code ran successfully due to my code having no bugs. The program successfully calculated the diameter, circumference, surface area, and volume of a sphere.
 
 Conclusions:
 - I learned how to do basic programming foundations on my own in a new coding language. Previously, I have learned how to do similar projects in python and c++; however, I can now do the same in a new language which will only improve my coding skills. These skills helped me complete harder projects in java using new coding concepts in java, such as StringBuilder and toString.
